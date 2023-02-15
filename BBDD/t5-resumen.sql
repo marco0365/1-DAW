@@ -9,7 +9,9 @@ CREATE DATABASE IF NOT EXISTS cocina DEFAULT CHARACTER SET utf8 COLLATE utf8_spa
 USE cocina;
 // Se utiliza el comando "USE" para indicar que se va a trabajar con la base de datos "cocina".
 
-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+
 | Creación de Tablas |
 
 CREATE TABLE nombre_de_la_tabla
@@ -28,7 +30,7 @@ foreign key (fk)
 // Se definen los valores que se van a utilizar en las tablas, como claves primarias, valores no nulos y claves foráneas.
 
 
-------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 
 
 | Creación de Relaciones |
